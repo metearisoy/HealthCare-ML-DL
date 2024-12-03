@@ -1,0 +1,3 @@
+The dataset is large, so it has been added as a link!
+
+Data Link: httpswww.kaggle.comdatasetspaultimothymooneychest-xray-pneumonia
